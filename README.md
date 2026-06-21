@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at Southern New Hampshire University
 - 📫 How to reach me: alexwpoitras@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love anything with an engine
+- ⚡ Fun fact: I love anything with an engine and or a computer
 
 <!---
 WindexUser/WindexUser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
